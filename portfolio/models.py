@@ -8,4 +8,4 @@ class Project(models.Model):
     image = ImageField(upload_to='portfolio/images/')
     url = URLField(blank=True)
 
-  
+class nayi
